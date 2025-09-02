@@ -11,9 +11,9 @@ title: "Chap1"
 
 微信公众号狗熊会>案例图书>精品案例，阅读以下推文
 
-- No.2线性回归>点评类商户销量分析
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[No.2线性回归>点评类商户销量分析](https://mp.weixin.qq.com/s/YxW6kDxn4F7yhmwmw1WNcQ)
 
-- No.2线性回归>短视频点赞量分析
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[No.2线性回归>短视频点赞量分析](https://mp.weixin.qq.com/s/D87xeFDCRqOIrIA4utLGeg)
 
 
 # Excel技巧  
