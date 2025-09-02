@@ -1,0 +1,12 @@
+---
+title: "Chap5"
+---
+
+## Chapter 5
+
+
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/ee4/chap5.html)
+
+# Eviews
+
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px"/>[Eviews 多项式、双对数、倒数模型](https://www.bilibili.com/video/BV1xT4y1F7oS/) 
