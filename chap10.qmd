@@ -1,9 +1,0 @@
----
-title: "Chap10"
----
-
-
-## Chapter 10
-
-<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/ee4/chap10.html)
-
