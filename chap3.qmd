@@ -1,0 +1,12 @@
+---
+title: "Chap3"
+---
+
+# Chapter 3
+
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/ee4/chap3.html){target="_blank"}
+
+  
+# 拓展资源
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> 在线词云图工具 <https://www.wordclouds.com/>{target="_blank"}    

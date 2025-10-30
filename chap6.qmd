@@ -1,0 +1,26 @@
+---
+title: "Chap6"
+---
+
+# Chapter 6
+
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/ee4/chap6.html)
+
+# 课堂练习
+
+<details>
+<summary>quiz</summary>
+
+<!-- 用 Markdown 图像语法并加属性，跨 HTML/PDF/导出更友好 -->
+![](img/quiz_page_1.png){width=100%}
+![](img/quiz_page_2.png){width=100%}
+![](img/quiz_page_3.png){width=100%}
+![](img/quiz_page_4.png){width=100%}
+![](img/quiz_page_5.png){width=100%}
+![](img/quiz_page_6.png){width=100%}
+![](img/quiz_page_7.png){width=100%}
+
+</details>
+
+
+
