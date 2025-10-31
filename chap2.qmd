@@ -2,7 +2,7 @@
 title: "Chap2"
 ---
 
-# Chapter 2
+# Slides
 
 <img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/ee4/chap2.html){target="_blank"}
 
