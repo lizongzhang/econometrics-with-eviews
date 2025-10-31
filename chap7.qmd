@@ -4,7 +4,7 @@ title: "Chap7"
 
 # Slides
 
-<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/ee4/chap7.html){target="_blank"} 
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/econometrics-with-eviews/chap7slide.html){target="_blank"} 
 
 # EViews
 

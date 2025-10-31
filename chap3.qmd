@@ -10,7 +10,7 @@ title: "Chap3"
 
 <img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px"/>[Eviews 创建equation](https://www.bilibili.com/video/BV1wy4y187iT/){target="_blank"} 
 
-
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px"/>[Eviews Jarque-Bera test](https://www.bilibili.com/video/BV1kK4y177Ho/){target="_blank"} 
 
 # 习题答案
 
