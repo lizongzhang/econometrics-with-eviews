@@ -6,7 +6,22 @@ title: "Chap3"
 
 <img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/ee4/chap3.html){target="_blank"}
 
+
+<details>
+<summary style="cursor: pointer; font-weight: bold;">点击展开</summary>
+
+<p>如果想在新窗口打开 PDF，请点这里： <a href="img/EE4_Ch03_Solutions_Manual.pdf" target="_blank" rel="noopener">在新标签页中查看 PDF</a></p>
+
+<iframe src="img/EE4_Ch03_Solutions_Manual.pdf" width="100%" height="800" style="border: none;" allowfullscreen>
+  <!-- 备用内容（若浏览器不支持 iframe） -->
+  <p>你的浏览器无法嵌入 PDF，请 <a href="img/EE4_Ch03_Solutions_Manual.pdf" target="_blank" rel="noopener">点此下载/查看 PDF</a>.</p>
+</iframe>
+
+</details>
+
   
 # 拓展资源
 
-<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> 在线词云图工具 <https://www.wordclouds.com/>{target="_blank"}    
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> 在线词云图工具 <https://www.wordclouds.com/>{target="_blank"} 
+
+

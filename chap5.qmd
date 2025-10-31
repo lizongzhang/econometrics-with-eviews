@@ -9,4 +9,20 @@ title: "Chap5"
 
 # Eviews
 
-<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px"/>[Eviews 多项式、双对数、倒数模型](https://www.bilibili.com/video/BV1xT4y1F7oS/) 
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px"/>[Eviews 多项式、双对数、倒数模型](https://www.bilibili.com/video/BV1xT4y1F7oS/){target="_blank"} 
+
+
+
+# 习题答案
+
+<details>
+<summary style="cursor: pointer; font-weight: bold;">点击展开：习题答案</summary>
+
+<p>如果想在新窗口打开 PDF，请点这里： <a href="img/EE4_Ch05_Solutions_Manual.pdf" target="_blank" rel="noopener">在新标签页中查看 PDF</a></p>
+
+<iframe src="img/EE4_Ch05_Solutions_Manual.pdf" width="100%" height="800" style="border: none;" allowfullscreen>
+  <!-- 备用内容（若浏览器不支持 iframe） -->
+  <p>你的浏览器无法嵌入 PDF，请 <a href="img/EE4_Ch05_Solutions_Manual.pdf" target="_blank" rel="noopener">点此下载/查看 PDF</a>.</p>
+</iframe>
+
+</details>
