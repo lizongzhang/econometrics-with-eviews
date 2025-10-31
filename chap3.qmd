@@ -2,10 +2,17 @@
 title: "Chap3"
 ---
 
-# Chapter 3
+# Slides
 
 <img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/ee4/chap3.html){target="_blank"}
 
+# Eviews
+
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px"/>[Eviews 创建equation](https://www.bilibili.com/video/BV1wy4y187iT/){target="_blank"} 
+
+
+
+# 习题答案
 
 <details>
 <summary style="cursor: pointer; font-weight: bold;">点击展开</summary>

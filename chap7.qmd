@@ -2,8 +2,28 @@
 title: "Chap7"
 ---
 
-## Chapter 7
+# Chapter 7
 
 <img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/ee4/chap7.html)
+
+# EViews
+
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px"/>[EViews 遗漏或多余变量的检验](https://www.bilibili.com/video/BV1GZ4y1V7oc/){target="_blank"} 
+
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px"/>[EViews RESET检验](https://www.bilibili.com/video/BV1aD4y197wf/){target="_blank"} 
+
+# 习题答案
+
+<details>
+<summary style="cursor: pointer; font-weight: bold;">点击展开</summary>
+
+<p>如果想在新窗口打开 PDF，请点这里： <a href="img/EE4_Ch07_Solutions_Manual.pdf" target="_blank" rel="noopener">在新标签页中查看 PDF</a></p>
+
+<iframe src="img/EE4_Ch07_Solutions_Manual.pdf" width="100%" height="800" style="border: none;" allowfullscreen>
+  <!-- 备用内容（若浏览器不支持 iframe） -->
+  <p>你的浏览器无法嵌入 PDF，请 <a href="img/EE4_Ch07_Solutions_Manual.pdf" target="_blank" rel="noopener">点此下载/查看 PDF</a>.</p>
+</iframe>
+
+</details>
 
 
