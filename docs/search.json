@@ -95,7 +95,7 @@
     "href": "case.html",
     "title": "Case",
     "section": "",
-    "text": "每组4-5人，由组长填写在线问卷，提交分组信息：https://www.wjx.top/vm/e3AyWsR.aspx# \n\n案例分析\n案例分析要求\n\n\n往届习作\n星巴克门店数量分析\n小米之家门店数量分析\n小米手机价格分析\n永辉超市门店数量分析\n\n\n学生习作视频及点评\n第6章虚拟变量小组作业讲评–20国贸\n第7-9章小组作业讲评 20经济\n\n\n讨论/汇报时间表\n后续在QQ群发布"
+    "text": "每组4-5人，由组长填写在线问卷，提交分组信息：https://www.wjx.top/vm/e3AyWsR.aspx#"
   },
   {
     "objectID": "index.html",
@@ -201,5 +201,33 @@
     "title": "Chapter 5 Functional Forms of Regression Model",
     "section": "",
     "text": "注意：本讲义供学习交流使用，请勿用于商业用途"
+  },
+  {
+    "objectID": "case.html#第1次讨论课第4周",
+    "href": "case.html#第1次讨论课第4周",
+    "title": "Case",
+    "section": "第1次讨论课(第4周)",
+    "text": "第1次讨论课(第4周)\n选题/数据收集/可行性/模型设定"
+  },
+  {
+    "objectID": "case.html#第2次讨论课第10周",
+    "href": "case.html#第2次讨论课第10周",
+    "title": "Case",
+    "section": "第2次讨论课(第10周)",
+    "text": "第2次讨论课(第10周)\n\n运用第4，5，6章方法\n准备的文件：\n\nEViews Workfile 工作文件\nPPT文件\n\n数据来源\n变量含义\n尝试的回归方程估计结果截图\n哪个模型最好，为什么？\n主要结论"
+  },
+  {
+    "objectID": "case.html#第3次讨论课第15周",
+    "href": "case.html#第3次讨论课第15周",
+    "title": "Case",
+    "section": "第3次讨论课(第15周)",
+    "text": "第3次讨论课(第15周)\n\n运用第7, 8, 9章方法\n准备的文件：\n\nEViews Workfile 工作文件\nPPT文件\n\n对模型进行诊断和改进\n设定误差的检验\n多重共线性诊断\n异方差的诊断和改进\n主要结论"
+  },
+  {
+    "objectID": "case.html#课堂汇报第16周",
+    "href": "case.html#课堂汇报第16周",
+    "title": "Case",
+    "section": "课堂汇报(第16周)",
+    "text": "课堂汇报(第16周)\n后续在QQ群发布"
   }
 ]
